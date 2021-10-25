@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /tokibase/Dockerfile
+run:
+   worker: npm start
